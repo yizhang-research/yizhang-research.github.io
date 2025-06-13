@@ -2,6 +2,7 @@
 title: "A Sparsity-Promoting Time Domain Evaluation Method for Thermal Transient Measurement of Power Semiconductors"
 collection: publications
 category: manuscripts
+layout: single
 permalink: /publication/2024-timedomainttm
 excerpt: "This article proposes a new thermal transient measurement method to obtain the internal thermal structure of semiconductor devices."
 date: 2024-06-01
