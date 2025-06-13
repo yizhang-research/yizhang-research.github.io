@@ -30,8 +30,8 @@ My current research focuses on power electronics reliability via the following a
 
 🎓 I am always looking for highly motivated students and collaborators.
 
-- PhD, MPhi, and Postdoc positions available in the areas of power electronics, WBG packaging, and AI-assisted modeling
-- Visiting students including BS and MS students are welcome to reach out
+- PhD, MPhi, and Postdoc positions available in the areas of power electronics, WBG packaging, prognostics and health management (PHM), and AI-assisted modeling
+- Visiting students including BS, MS, and PhD students are welcome to reach out
 
 Feel free to contact me if you are interested in joining my group or collaborating on related topics.
 
