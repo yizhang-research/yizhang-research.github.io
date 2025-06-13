@@ -9,28 +9,15 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=eajvCuQAAAAJ">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+## Theme 1: Thermal Transient Characterization
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+![Thermal image](/images/themes/thermal.png){: style="max-width:300px;" }
+
+Understanding the physics of transient thermal responses enables reproducible reliability characterization of WBG devices.
+
+- [A Sparsity-Promoting Time Domain Evaluation Method](publication/2024-timedomainttm)
+
+---
 
 
 
