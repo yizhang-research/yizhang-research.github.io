@@ -1,5 +1,4 @@
 ---
-thumbnail: https://yizhang-research.github.io/images/papers/timedomainttm-thumb.png
 title: "A Sparsity-Promoting Time Domain Evaluation Method for Thermal Transient Measurement of Power Semiconductors"
 collection: publications
 category: manuscripts
