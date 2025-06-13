@@ -9,8 +9,8 @@ redirect_from:
 
 ## BIO
 
-I am currently an Assistant Professor in the Department of Electrical and Electronic Engineering at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-zhang-yi/?sc_lang=en).  
-Before joining PolyU, I was an Assistant Professor in Aalborg University, Denmark, where I worked on power electronics reliability and packaging innovations in collaboration with industry.
+I am currently an Assistant Professor in the Department of Electrical and Electronic Engineering at [The Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/dr-zhang-yi/?sc_lang=en)，Hong Kong.  
+Before joining PolyU, I was an Assistant Professor in [Aalborg University](https://www.energy.aau.dk/), Denmark, where I worked on power electronics reliability and advanced packaging in collaboration with industry, including Siemens, Danfoss, ABB, Hitachi Energy, Vestas, Infineon, CRRC, Nexperia, just name a few.
 
 My research focuses on advancing the reliability and sustainability of power electronics through design, testing, packaging, and condition monitoring. 
 
