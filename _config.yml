@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yi Zhang"
+title                    : "Prof. Yi Zhang"
 title_separator          : "-"
 name                     : &name "Yi Zhang"
 description              : &description "Assistant Professor at The Hong Kong Polytechnic University. Research in power electronics, reliability, and packaging technologies."
