@@ -26,6 +26,20 @@ My current research focuses on power electronics reliability via the following a
 
 ---
 
+## OPENINGS
+
+🎓 I am always looking for highly motivated students and collaborators.
+
+- PhD, MPhi, and Postdoc positions available in the areas of power electronics, WBG packaging, and AI-assisted modeling
+- Visiting students including BS and MS students are welcome to reach out
+
+Feel free to contact me if you are interested in joining my group or collaborating on related topics.
+
+📧 [yiz@ieee.org](mailto:yiz@ieee.org)  
+📧 [yi-ee.zhang@polyu.edu.hk](mailto:yi-ee.zhang@polyu.edu.hk)
+
+---
+
 ## DEGREES
 
 - **Ph.D.**  
@@ -40,16 +54,4 @@ My current research focuses on power electronics reliability via the following a
   Electrical Engineering, Harbin Institute of Technology, China, 2014.
   *Supervisors: Dianguo Xu*
 
----
 
-## OPENINGS
-
-🎓 I am always looking for highly motivated students and collaborators.
-
-- PhD, MPhi, and Postdoc positions available in the areas of power electronics, WBG packaging, and AI-assisted modeling
-- Visiting students including BS and MS students are welcome to reach out
-
-Feel free to contact me if you are interested in joining my group or collaborating on related topics.
-
-📧 [yiz@ieee.org](mailto:yiz@ieee.org)  
-📧 [yi-ee.zhang@polyu.edu.hk](mailto:yi-ee.zhang@polyu.edu.hk)
