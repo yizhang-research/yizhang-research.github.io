@@ -4,8 +4,9 @@ permalink: /publications/
 author_profile: true
 redirect_from:
   - /publications.html
-layout: single
+layout: archive
 ---
+
 You can find my full publications at [Google Scholar](https://scholar.google.com/citations?hl=en&user=eadyCuQAAAAJ).
 
 ---
