@@ -1,13 +1,11 @@
 ---
-permalink: /
-title: "Publications"
 permalink: /publications/
+title: "Publications"
 author_profile: true
-redirect_from:
-  - /publications
-  - /publications.htmlAdd commentMore actions
+redirect_from: 
+  - /publications/
+  - /publications.html
 ---
-
 
 You can find my full publications at [Google Scholar](https://scholar.google.com/citations?hl=en&user=eadyCuQAAAAJ).
 
