@@ -1,8 +1,9 @@
 ---
-layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /publications.html
 ---
 You can find my full publications at [Google Scholar](https://scholar.google.com/citations?hl=en&user=eadyCuQAAAAJ).
 
