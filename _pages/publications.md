@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+You can find my full publications at [Google Scholar](https://scholar.google.com/citations?hl=en&user=eadyCuQAAAAJ).
+
+---
+
+## Theme 1: Thermal Transient Characterization
+
+![Thermal image](/images/themes/thermal.png){: style="max-width:300px; margin-bottom:10px;" }
+
+Understanding the physics of transient thermal responses enables reproducible reliability characterization of WBG devices.
+
+- [A Sparsity-Promoting Time Domain Evaluation Method](/publication/2024-timedomainttm)
