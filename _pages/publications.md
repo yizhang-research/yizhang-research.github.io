@@ -12,7 +12,7 @@ You can find my full publications at [Google Scholar](https://scholar.google.com
 
 ## Theme 1: A New Method to Identify the Internal Structure of Power Semiconductor Packaging
 
-![Thermal image](/images/themes/thermal.png){: style="max-width:300px; margin-bottom:10px;" }
+<img src="/images/themes/thermal.png" alt="Thermal image" style="max-width:300px; margin-bottom:10px;" />
 
 Power semiconductor switches are black-box packaging with limited electrical terminals only. If we can utilize these electrical terminals to identify the internal structures, it provides important values for power electronics industry, such as quality checking of device fabrication, designs of power converters, and field operation and maintenance. The current industry relies on the JEDEC 51-14 standard to achieve this requirement, a method proposed nearly 30 years ago. However, this approach falls short in the era of wide-bandgap (WBG) semiconductors due to several key limitations:
 
